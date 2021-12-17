@@ -40,7 +40,7 @@ yarn run dev
 ```
 
 ### Environmental Variable
-Add your {api_key} as it will be needed in your request params
+Add your apiKey from scraperapi as {api_key} as it will be needed in your request params
 
 
 
